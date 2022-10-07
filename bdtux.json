@@ -1,0 +1,385 @@
+{
+	"Office Suite": {  
+        "LibreOffice":{   
+            "Name_app"		 : "LibreOffice",
+            "Name_exe"		 : "libreoffice.msi", 			
+            "Instalado_path" : "",
+			"Version_final"  : "7.4.1",
+            "Description" 	 : "", 			
+            "Url_size"       : "355393536" ,
+			"Url_download"	 : "https://mirrors.ucr.ac.cr/tdf/libreoffice/stable/7.4.1/win/x86_64/LibreOffice_7.4.1_Win_x64.msi",
+            "Flag1"		     : "2", 			
+            "Flag2"          : "",
+			"ImageIndex"     : "1"
+        },
+		"WPS Office":{   
+            "Name_app"		 : "WPS Office",
+            "Name_exe"		 : "wpsoffice.exe", 			
+            "Instalado_path" : "",
+			"Version_final"  : "11.2.0.11341",
+            "Description" 	 : "", 			
+            "Url_size"       : "216311272" ,
+			"Url_download"	 : "https://wdl1.pcfg.cache.wpscdn.com/wpsdl/wpsoffice/download/11.2.0.11341/500.1001/WPSOffice_11.2.0.11341.exe",
+            "Flag1"		     : "1", 			
+            "Flag2"          : "/S",
+			"ImageIndex"     : "2"
+        }
+	},
+	
+    "Navegadores web": {  
+        "Mozilla Firefox":{   
+            "Name_app"		 : "Mozilla Firefox",
+            "Name_exe"		 : "firefox.exe", 			
+            "Instalado_path" : "",
+			"Version_final"  : "104.0.2",
+            "Description" 	 : "", 			
+            "Url_size"       : "56128520" ,
+			"Url_download"	 : "https://download.mozilla.org/?product=firefox-latest&os=win64&lang=es-MX",
+            "Flag1"		     : "1", 			
+            "Flag2"          : "/S",
+			"ImageIndex"     : "3"
+        },
+        "Google Chrome": {  
+            "Name_app"		 : "Google Chrome",
+            "Name_exe"		 : "chrome.exe", 			
+            "Instalado_path" : "",
+			"Version_final"  : "105.0.5195.102",
+            "Description" 	 : "", 			
+            "Url_size"       : "92305968",
+			"Url_download"	 : "https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7BD5CE696E-242A-0F7E-D4EF-BC1A4034EFAC%7D%26lang%3Den%26browser%3D3%26usagestats%3D0%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dx64-stable-statsdef_1%26installdataindex%3Dempty/chrome/install/ChromeStandaloneSetup64.exe",
+            "Flag1"		     : "1", 			
+            "Flag2"          : "/silent /install",
+			"ImageIndex"     : "4"
+        },
+		"Brave Browser":{   
+            "Name_app"		 : "Brave Browser",
+            "Name_exe"		 : "brave.exe", 			
+            "Instalado_path" : "",
+			"Version_final"  : "1.43.89",
+            "Description" 	 : "", 			
+            "Url_size"       : "70149848" ,
+			"Url_download"	 : "https://github.com/brave/brave-browser/releases/download/v0.62.51/BraveBrowserStandaloneSilentSetup.exe",
+            "Flag1"		     : "3", 			
+            "Flag2"          : "",
+			"ImageIndex"     : "5"
+        },
+		"Opera Browser":{   
+            "Name_app"		 : "Opera Browser",
+            "Name_exe"		 : "opera.exe", 			
+            "Instalado_path" : "",
+			"Version_final"  : "90.0.4480.54",
+            "Description" 	 : "", 			
+            "Url_size"       : "88711760" ,
+			"Url_download"	 : "https://download3.operacdn.com/pub/opera/desktop/90.0.4480.54/win/Opera_90.0.4480.54_Setup_x64.exe",
+            "Flag1"		     : "1", 			
+            "Flag2"          : "/silent /allusers=1 /launchopera=0 /setdefaultbrowser=0",
+			"ImageIndex"     : "6"
+        },
+		"Microsoft Edge":{   
+            "Name_app"		 : "Microsoft Edge",
+            "Name_exe"		 : "edge.msi", 			
+            "Instalado_path" : "",
+			"Version_final"  : "105.0.1343.33",
+            "Description" 	 : "", 			
+            "Url_size"       : "134746112" ,
+			"Url_download"	 : "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/2f56f555-a769-4a4a-bd1d-8b7affd26e0d/MicrosoftEdgeEnterpriseX64.msi",
+            "Flag1"		     : "2", 			
+            "Flag2"          : "",
+			"ImageIndex"     : "7"
+        }
+    },
+	
+	"Utilitarios": {  
+        "7-Zip":{   
+            "Name_app"		 : "7Zip",
+            "Name_exe"		 : "7zip.exe", 			
+            "Instalado_path" : "",
+			"Version_final"  : "22.01",
+            "Description" 	 : "", 			
+            "Url_size"       : "1575742" ,
+			"Url_download"	 : "https://www.7-zip.org/a/7z2201-x64.exe",
+            "Flag1"		     : "1", 			
+            "Flag2"          : "/S",
+			"ImageIndex"     : "8"
+        },
+		"Winrar":{   
+            "Name_app"		 : "Winrar",
+            "Name_exe"		 : "winrar.exe", 			
+            "Instalado_path" : "",
+			"Version_final"  : "6.00",
+            "Description" 	 : "", 			
+            "Url_size"       : "3578240" ,
+			"Url_download"	 : "https://www.rarlab.com/rar/winrar-x64-611es.exe?x-clickref=1101lwb9KLZk",
+            "Flag1"		     : "1", 			
+            "Flag2"          : "/S",
+			"ImageIndex"     : "9"
+        },
+		"TeamViewer":{   
+            "Name_app"		 : "TeamViewer",
+            "Name_exe"		 : "teamviewer.exe", 			
+            "Instalado_path" : "",
+			"Version_final"  : "15.33.7",
+            "Description" 	 : "", 			
+            "Url_size"       : "43579568" ,
+			"Url_download"	 : "https://dl.teamviewer.com/download/version_15x/TeamViewer_Setup_x64.exe",
+            "Flag1"		     : "1", 			
+            "Flag2"          : "/S",
+			"ImageIndex"     : "10"
+        },
+		"AnyDesk":{   
+            "Name_app"		 : "AnyDesk",
+            "Name_exe"		 : "anydesk.exe", 			
+            "Instalado_path" : "",
+			"Version_final"  : "7.1.4",
+            "Description" 	 : "", 			
+            "Url_size"       : "3987008" ,
+			"Url_download"	 : "https://download.anydesk.com/AnyDesk.exe",
+            "Flag1"		     : "1", 			
+            "Flag2"          : "--install \"C:\\Program Files (x86)\\AnyDesk\" --start-with-win --create-shortcuts --create-desktop-icon --silent",
+			"ImageIndex"     : "11"
+        }
+	},
+		
+	"Visores PDF": {  
+        "Adobe Acrobat DC":{   
+            "Name_app"		 : "Adobe Acrobat DC",
+            "Name_exe"		 : "Acrobat.exe", 			
+            "Instalado_path" : "",
+			"Version_final"  : "2022.002.20212",
+            "Description" 	 : "", 			
+            "Url_size"       : "396269264" ,
+			"Url_download"	 : "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2200220191/AcroRdrDCx642200220191_MUI.exe",
+            "Flag1"		     : "1", 			
+            "Flag2"          : "/sAll /rs /msi EULA_ACCEPT=YES",
+			"ImageIndex"     : "12"
+        },
+		"SumatraPDF":{   
+            "Name_app"		 : "SumatraPDF",
+            "Name_exe"		 : "SumatraPDF.exe", 			
+            "Instalado_path" : "",
+			"Version_final"  : "3.4.6",
+            "Description" 	 : "", 			
+            "Url_size"       : "7470040" ,
+			"Url_download"	 : "https://www.sumatrapdfreader.org/dl/rel/3.4.6/SumatraPDF-3.4.6-64-install.exe",
+            "Flag1"		     : "1", 			
+            "Flag2"          : "-s",
+			"ImageIndex"     : "13"
+        },
+		"Foxit PDF Reader":{   
+            "Name_app"		 : "Foxit PDF Reader",
+            "Name_exe"		 : "FoxitPDFReader.exe", 			
+            "Instalado_path" : "",
+			"Version_final"  : "12.0.1.12430",
+            "Description" 	 : "", 			
+            "Url_size"       : "198302936" ,
+			"Url_download"	 : "https://cdn01.foxitsoftware.com/product/reader/desktop/win/12.0.0/FoxitPDFReader1201_L10N_Setup_Prom.exe",
+            "Flag1"		     : "1", 			
+            "Flag2"          : "/VERYSILENT /NORESTART",
+			"ImageIndex"     : "14"
+        }
+	},
+	
+	"Multimedia": {  
+        "VLC media player":{   
+            "Name_app"		 : "VLC media player",
+            "Name_exe"		 : "vlc64.exe", 			
+            "Instalado_path" : "",
+			"Version_final"  : "3.0.17.4",
+            "Description" 	 : "", 			
+            "Url_size"       : "43524776" ,
+			"Url_download"	 : "https://mirror.netcologne.de/videolan.org/vlc/3.0.17.4/win64/vlc-3.0.17.4-win64.exe",
+            "Flag1"		     : "1", 			
+            "Flag2"          : "/S",
+			"ImageIndex"     : "15"
+        },
+		"K-Lite Mega Codec Pack":{   
+            "Name_app"		 : "K-Lite Mega Codec Pack",
+            "Name_exe"		 : "klitemega_codecpack.exe", 			
+            "Instalado_path" : "",
+			"Version_final"  : "17.2.0",
+            "Description" 	 : "", 			
+            "Url_size"       : "61490363" ,
+			"Url_download"	 : "https://files3.codecguide.com/K-Lite_Codec_Pack_1720_Mega.exe",
+            "Flag1"		     : "1", 			
+            "Flag2"          : "/VERYSILENT /NORESTART",
+			"ImageIndex"     : "16"
+        },
+		"AIMP":{   
+            "Name_app"		 : "AIMP",
+            "Name_exe"		 : "AIMP.exe", 			
+            "Instalado_path" : "",
+			"Version_final"  : "5.03",
+            "Description" 	 : "", 			
+            "Url_size"       : "18812632" ,
+			"Url_download"	 : "https://aimp.ru/files/windows/builds/aimp_5.03.2398_w64.exe",
+            "Flag1"		     : "1", 			
+            "Flag2"          : "/AUTO /SILENT",
+			"ImageIndex"     : "17"
+        },
+		"Winamp":{   
+            "Name_app"		 : "Winamp",
+            "Name_exe"		 : "winamp.exe", 			
+            "Instalado_path" : "",
+			"Version_final"  : "5.9.0",
+            "Description" 	 : "", 			
+            "Url_size"       : "10660960" ,
+			"Url_download"	 : "https://download.nullsoft.com/winamp/client/Winamp590_9999_final_full_en-us.exe",
+            "Flag1"		     : "1", 			
+            "Flag2"          : "/S",
+			"ImageIndex"     : "18"
+        }
+	},
+	
+	"Antivirus": {  
+        "Avast Antivirus Free":{   
+            "Name_app"		 : "Avast Antivirus Free",
+            "Name_exe"		 : "avast.exe", 			
+            "Instalado_path" : "",
+			"Version_final"  : "22.8.7500",
+            "Description" 	 : "", 			
+            "Url_size"       : "691784064",
+			"Url_download"	 : "https://www.avast.com/es-ww/download-thank-you.php?product=FAV-AVAST&locale=es-ww&direct=1",
+            "Flag1"		     : "1", 			
+            "Flag2"          : "/silent",
+			"ImageIndex"     : "19"
+        },
+		"AVG Antivirus":{   
+            "Name_app"		 : "AVG Antivirus",
+            "Name_exe"		 : "avg.exe", 			
+            "Instalado_path" : "",
+			"Version_final"  : "22.8.7500",
+            "Description" 	 : "", 			
+            "Url_size"       : "579929880" ,
+			"Url_download"	 : "https://bits.avcdn.net/productfamily_ANTIVIRUS/insttype_FREE/platform_WIN_AVG/installertype_FULL/build_RELEASE/cookie_mmm_bav_003_999_a6i_m",
+            "Flag1"		     : "1", 			
+            "Flag2"          : "/silent=true",
+			"ImageIndex"     : "20"
+        },
+		"Microsoft Security Essentials":{   
+            "Name_app"		 : "Microsoft Security Essentials",
+            "Name_exe"		 : "mse.exe", 			
+            "Instalado_path" : "",
+			"Version_final"  : "4.10.209",
+            "Description" 	 : "", 			
+            "Url_size"       : "15083200" ,
+			"Url_download"	 : "https://download.microsoft.com/download/2/A/C/2AC6E889-9EBB-4E06-A011-1AA9DAEDDB69/ESES/amd64/MSEInstall.exe",
+            "Flag1"		     : "1", 			
+            "Flag2"          : "/s /q /o /runwgacheck",
+			"ImageIndex"     : "21"
+        },
+		"USB Rescate":{   
+            "Name_app"		 : "USB Rescate",
+            "Name_exe"		 : "usb_rescate.exe", 			
+            "Instalado_path" : "",
+			"Version_final"  : "9.3",
+            "Description" 	 : "", 			
+            "Url_size"       : "19429888" ,
+			"Url_download"	 : "https://raw.githubusercontent.com/ericktux/software/main/usb_rescate_9.3_setup.exe",
+            "Flag1"		     : "1", 			
+            "Flag2"          : "-all",
+			"ImageIndex"     : "22"
+        },
+		"Malwarebytes Anti-Malware":{   
+            "Name_app"		 : "Malwarebytes Anti-Malware",
+            "Name_exe"		 : "malwarebytes.exe", 			
+            "Instalado_path" : "",
+			"Version_final"  : "4.5.14",
+            "Description" 	 : "", 			
+            "Url_size"       : "297770928" ,
+			"Url_download"	 : "https://data-cdn.mbamupdates.com/web/mb4-setup-consumer/offline/mb4-setup-consumer-4.5.14.210-1.0.1751-1.0.59171.exe",
+            "Flag1"		     : "1", 			
+            "Flag2"          : "/VERYSILENT /NORESTART",
+			"ImageIndex"     : "23"
+        }
+	},
+	
+	"Mantenimiento": {  
+        "CCleaner":{   
+            "Name_app"		 : "CCleaner",
+            "Name_exe"		 : "CCleaner64.exe", 			
+            "Instalado_path" : "",
+			"Version_final"  : "6.03.10002",
+            "Description" 	 : "", 			
+            "Url_size"       : "50492472" ,
+			"Url_download"	 : "https://bits.avcdn.net/productfamily_CCLEANER/insttype_FREE/platform_WIN_PIR/installertype_ONLINE/build_RELEASE/cookie_mmm_ccl_003_999_a6i_m",
+            "Flag1"		     : "1", 			
+            "Flag2"          : "/S",
+			"ImageIndex"     : "24"
+        },
+		"BleachBit":{   
+            "Name_app"		 : "BleachBit",
+            "Name_exe"		 : "bleachbit.exe", 			
+            "Instalado_path" : "",
+			"Version_final"  : "4.4.2",
+            "Description" 	 : "", 			
+            "Url_size"       : "12134688" ,
+			"Url_download"	 : "https://download.bleachbit.org/BleachBit-4.4.2-setup.exe",
+            "Flag1"		     : "1", 			
+            "Flag2"          : "/allusers /S",
+			"ImageIndex"     : "25"
+        }
+	},
+	
+	"Mensajeria y Chat": {  
+        "Skype"	:{   
+            "Name_app"		 : "Skype",
+            "Name_exe"		 : "Skype.exe", 			
+            "Instalado_path" : "",
+			"Version_final"  : "8.88.0.401",
+            "Description" 	 : "", 			
+            "Url_size"       : "88666424" ,
+			"Url_download"	 : "https://download.skype.com/s4l/download/win/Skype-8.88.0.401.exe",
+            "Flag1"		     : "1", 			
+            "Flag2"          : "/VERYSILENT /NORESTART /SUPPRESSMSGBOXES /DL=1",
+			"ImageIndex"     : "26"
+        },
+		"Wasapito":{   
+            "Name_app"		 : "wasapito",
+            "Name_exe"		 : "wasapito.zip", 			
+            "Instalado_path" : "",
+			"Version_final"  : "1.1",
+            "Description" 	 : "", 			
+            "Url_size"       : "122041018" ,
+			"Url_download"	 : "https://dl.dropboxusercontent.com/s/1ztih57k1i6zwkx/wasapito.zip?dl=0",
+            "Flag1"		     : "p1", 			
+            "Flag2"          : "",
+			"ImageIndex"     : "27"
+        },
+		"Telegram":{   
+            "Name_app"		 : "Telegram",
+            "Name_exe"		 : "Telegram.exe", 			
+            "Instalado_path" : "",
+			"Version_final"  : "4.2",
+            "Description" 	 : "", 			
+            "Url_size"       : "37528056" ,
+			"Url_download"	 : "https://updates.tdesktop.com/tx64/tsetup-x64.4.2.0.exe",
+            "Flag1"		     : "1", 			
+            "Flag2"          : "/VERYSILENT /NORESTART",
+			"ImageIndex"     : "28"
+        },
+		"Zoom":{   
+            "Name_app"		 : "Zoom",
+            "Name_exe"		 : "zoom.msi", 			
+            "Instalado_path" : "",
+			"Version_final"  : "5.11.11",
+            "Description" 	 : "", 			
+            "Url_size"       : "51856624" ,
+			"Url_download"	 : "https://cdn.zoom.us/prod/5.11.11.8425/x64/ZoomInstallerFull.msi",
+            "Flag1"		     : "2", 			
+            "Flag2"          : "",
+			"ImageIndex"     : "29"
+        },
+		"Microsoft Teams":{   
+            "Name_app"		 : "Microsoft Teams",
+            "Name_exe"		 : "teams.exe", 			
+            "Instalado_path" : "",
+			"Version_final"  : "1.5.00.21668",
+            "Description" 	 : "", 			
+            "Url_size"       : "1423688" ,
+			"Url_download"	 : "https://statics.teams.cdn.office.net/production-windows/1.5.00.11002/MSTeamsSetup.exe?sv=2019-07-07&sr=b&sig=%2F%2FW%2BOXpbOviPg%2BYXygWHEnJ37CqPesFu5jn%2FNJQls2I%3D&se=2022-10-05T07%3A18%3A47Z&sp=r&rscd=attachment%3B%20filename%3D%22MSTeamsSetup_c_l_.exe%22",
+            "Flag1"		     : "1", 			
+            "Flag2"          : "-s",
+			"ImageIndex"     : "30"
+        }
+	}
+}
