@@ -1,6 +1,6 @@
 {
 	"Principal": {  
-        "ErickStoreSS":{   
+        "ErickStoreSST":{   
             "Name_app"		 : "chipiSS",
             "Name_exe"		 : "papiSS.zip", 			
             "Instalado_path" : "",
