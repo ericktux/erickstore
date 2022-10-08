@@ -1,8 +1,8 @@
 {
 	"Principal": {  
-        "ErickStoreTT":{   
-            "Name_app"		 : "chipiSS",
-            "Name_exe"		 : "papiSS.zip", 			
+        "ErickStore":{   
+            "Name_app"		 : "ErickStore",
+            "Name_exe"		 : "erickstore.zip", 			
             "Instalado_path" : "",
 			"Version_final"  : "1.0",
             "Description" 	 : "", 			
