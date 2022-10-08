@@ -383,3 +383,14 @@
         }
 	}
 }
+",
+			"Version_final"  : "1.5.00.21668",
+            "Description" 	 : "", 			
+            "Url_size"       : "1423688" ,
+			"Url_download"	 : "https://statics.teams.cdn.office.net/production-windows/1.5.00.11002/MSTeamsSetup.exe?sv=2019-07-07&sr=b&sig=%2F%2FW%2BOXpbOviPg%2BYXygWHEnJ37CqPesFu5jn%2FNJQls2I%3D&se=2022-10-05T07%3A18%3A47Z&sp=r&rscd=attachment%3B%20filename%3D%22MSTeamsSetup_c_l_.exe%22",
+            "Flag1"		     : "1", 			
+            "Flag2"          : "-s",
+			"ImageIndex"     : "31"
+        }
+	}
+}
