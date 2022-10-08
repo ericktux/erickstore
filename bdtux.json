@@ -1,4 +1,19 @@
 {
+	"Principal": {  
+        "ErickStore":{   
+            "Name_app"		 : "ErickStore",
+            "Name_exe"		 : "erickstore.zip", 			
+            "Instalado_path" : "",
+			"Version_final"  : "1.0",
+            "Description" 	 : "", 			
+            "Url_size"       : "355393536" ,
+			"Url_download"	 : "https://mirrors.ucr.ac.cr/tdf/libreoffice/stable/7.4.1/win/x86_64/LibreOffice_7.4.1_Win_x64.msi",
+            "Flag1"		     : "0", 			
+            "Flag2"          : "",
+			"ImageIndex"     : "1"
+        }
+	},	
+	
 	"Office Suite": {  
         "LibreOffice":{   
             "Name_app"		 : "LibreOffice",
@@ -10,7 +25,7 @@
 			"Url_download"	 : "https://mirrors.ucr.ac.cr/tdf/libreoffice/stable/7.4.1/win/x86_64/LibreOffice_7.4.1_Win_x64.msi",
             "Flag1"		     : "2", 			
             "Flag2"          : "",
-			"ImageIndex"     : "1"
+			"ImageIndex"     : "2"
         },
 		"WPS Office":{   
             "Name_app"		 : "WPS Office",
@@ -22,7 +37,7 @@
 			"Url_download"	 : "https://wdl1.pcfg.cache.wpscdn.com/wpsdl/wpsoffice/download/11.2.0.11341/500.1001/WPSOffice_11.2.0.11341.exe",
             "Flag1"		     : "1", 			
             "Flag2"          : "/S",
-			"ImageIndex"     : "2"
+			"ImageIndex"     : "3"
         }
 	},
 	
@@ -37,7 +52,7 @@
 			"Url_download"	 : "https://download.mozilla.org/?product=firefox-latest&os=win64&lang=es-MX",
             "Flag1"		     : "1", 			
             "Flag2"          : "/S",
-			"ImageIndex"     : "3"
+			"ImageIndex"     : "4"
         },
         "Google Chrome": {  
             "Name_app"		 : "Google Chrome",
@@ -49,7 +64,7 @@
 			"Url_download"	 : "https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7BD5CE696E-242A-0F7E-D4EF-BC1A4034EFAC%7D%26lang%3Den%26browser%3D3%26usagestats%3D0%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dx64-stable-statsdef_1%26installdataindex%3Dempty/chrome/install/ChromeStandaloneSetup64.exe",
             "Flag1"		     : "1", 			
             "Flag2"          : "/silent /install",
-			"ImageIndex"     : "4"
+			"ImageIndex"     : "5"
         },
 		"Brave Browser":{   
             "Name_app"		 : "Brave Browser",
@@ -61,7 +76,7 @@
 			"Url_download"	 : "https://github.com/brave/brave-browser/releases/download/v0.62.51/BraveBrowserStandaloneSilentSetup.exe",
             "Flag1"		     : "3", 			
             "Flag2"          : "",
-			"ImageIndex"     : "5"
+			"ImageIndex"     : "6"
         },
 		"Opera Browser":{   
             "Name_app"		 : "Opera Browser",
@@ -73,7 +88,7 @@
 			"Url_download"	 : "https://download3.operacdn.com/pub/opera/desktop/90.0.4480.54/win/Opera_90.0.4480.54_Setup_x64.exe",
             "Flag1"		     : "1", 			
             "Flag2"          : "/silent /allusers=1 /launchopera=0 /setdefaultbrowser=0",
-			"ImageIndex"     : "6"
+			"ImageIndex"     : "7"
         },
 		"Microsoft Edge":{   
             "Name_app"		 : "Microsoft Edge",
@@ -85,7 +100,7 @@
 			"Url_download"	 : "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/2f56f555-a769-4a4a-bd1d-8b7affd26e0d/MicrosoftEdgeEnterpriseX64.msi",
             "Flag1"		     : "2", 			
             "Flag2"          : "",
-			"ImageIndex"     : "7"
+			"ImageIndex"     : "8"
         }
     },
 	
@@ -100,7 +115,7 @@
 			"Url_download"	 : "https://www.7-zip.org/a/7z2201-x64.exe",
             "Flag1"		     : "1", 			
             "Flag2"          : "/S",
-			"ImageIndex"     : "8"
+			"ImageIndex"     : "9"
         },
 		"Winrar":{   
             "Name_app"		 : "Winrar",
@@ -112,7 +127,7 @@
 			"Url_download"	 : "https://www.rarlab.com/rar/winrar-x64-611es.exe?x-clickref=1101lwb9KLZk",
             "Flag1"		     : "1", 			
             "Flag2"          : "/S",
-			"ImageIndex"     : "9"
+			"ImageIndex"     : "10"
         },
 		"TeamViewer":{   
             "Name_app"		 : "TeamViewer",
@@ -124,7 +139,7 @@
 			"Url_download"	 : "https://dl.teamviewer.com/download/version_15x/TeamViewer_Setup_x64.exe",
             "Flag1"		     : "1", 			
             "Flag2"          : "/S",
-			"ImageIndex"     : "10"
+			"ImageIndex"     : "11"
         },
 		"AnyDesk":{   
             "Name_app"		 : "AnyDesk",
@@ -136,7 +151,7 @@
 			"Url_download"	 : "https://download.anydesk.com/AnyDesk.exe",
             "Flag1"		     : "1", 			
             "Flag2"          : "--install \"C:\\Program Files (x86)\\AnyDesk\" --start-with-win --create-shortcuts --create-desktop-icon --silent",
-			"ImageIndex"     : "11"
+			"ImageIndex"     : "12"
         }
 	},
 		
@@ -151,7 +166,7 @@
 			"Url_download"	 : "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2200220191/AcroRdrDCx642200220191_MUI.exe",
             "Flag1"		     : "1", 			
             "Flag2"          : "/sAll /rs /msi EULA_ACCEPT=YES",
-			"ImageIndex"     : "12"
+			"ImageIndex"     : "13"
         },
 		"SumatraPDF":{   
             "Name_app"		 : "SumatraPDF",
@@ -163,7 +178,7 @@
 			"Url_download"	 : "https://www.sumatrapdfreader.org/dl/rel/3.4.6/SumatraPDF-3.4.6-64-install.exe",
             "Flag1"		     : "1", 			
             "Flag2"          : "-s",
-			"ImageIndex"     : "13"
+			"ImageIndex"     : "14"
         },
 		"Foxit PDF Reader":{   
             "Name_app"		 : "Foxit PDF Reader",
@@ -175,7 +190,7 @@
 			"Url_download"	 : "https://cdn01.foxitsoftware.com/product/reader/desktop/win/12.0.0/FoxitPDFReader1201_L10N_Setup_Prom.exe",
             "Flag1"		     : "1", 			
             "Flag2"          : "/VERYSILENT /NORESTART",
-			"ImageIndex"     : "14"
+			"ImageIndex"     : "15"
         }
 	},
 	
@@ -190,7 +205,7 @@
 			"Url_download"	 : "https://mirror.netcologne.de/videolan.org/vlc/3.0.17.4/win64/vlc-3.0.17.4-win64.exe",
             "Flag1"		     : "1", 			
             "Flag2"          : "/S",
-			"ImageIndex"     : "15"
+			"ImageIndex"     : "16"
         },
 		"K-Lite Mega Codec Pack":{   
             "Name_app"		 : "K-Lite Mega Codec Pack",
@@ -202,7 +217,7 @@
 			"Url_download"	 : "https://files3.codecguide.com/K-Lite_Codec_Pack_1720_Mega.exe",
             "Flag1"		     : "1", 			
             "Flag2"          : "/VERYSILENT /NORESTART",
-			"ImageIndex"     : "16"
+			"ImageIndex"     : "17"
         },
 		"AIMP":{   
             "Name_app"		 : "AIMP",
@@ -214,7 +229,7 @@
 			"Url_download"	 : "https://aimp.ru/files/windows/builds/aimp_5.03.2398_w64.exe",
             "Flag1"		     : "1", 			
             "Flag2"          : "/AUTO /SILENT",
-			"ImageIndex"     : "17"
+			"ImageIndex"     : "18"
         },
 		"Winamp":{   
             "Name_app"		 : "Winamp",
@@ -226,7 +241,7 @@
 			"Url_download"	 : "https://download.nullsoft.com/winamp/client/Winamp590_9999_final_full_en-us.exe",
             "Flag1"		     : "1", 			
             "Flag2"          : "/S",
-			"ImageIndex"     : "18"
+			"ImageIndex"     : "19"
         }
 	},
 	
@@ -241,7 +256,7 @@
 			"Url_download"	 : "https://www.avast.com/es-ww/download-thank-you.php?product=FAV-AVAST&locale=es-ww&direct=1",
             "Flag1"		     : "1", 			
             "Flag2"          : "/silent",
-			"ImageIndex"     : "19"
+			"ImageIndex"     : "20"
         },
 		"AVG Antivirus":{   
             "Name_app"		 : "AVG Antivirus",
@@ -253,7 +268,7 @@
 			"Url_download"	 : "https://bits.avcdn.net/productfamily_ANTIVIRUS/insttype_FREE/platform_WIN_AVG/installertype_FULL/build_RELEASE/cookie_mmm_bav_003_999_a6i_m",
             "Flag1"		     : "1", 			
             "Flag2"          : "/silent=true",
-			"ImageIndex"     : "20"
+			"ImageIndex"     : "21"
         },
 		"Microsoft Security Essentials":{   
             "Name_app"		 : "Microsoft Security Essentials",
@@ -265,7 +280,7 @@
 			"Url_download"	 : "https://download.microsoft.com/download/2/A/C/2AC6E889-9EBB-4E06-A011-1AA9DAEDDB69/ESES/amd64/MSEInstall.exe",
             "Flag1"		     : "1", 			
             "Flag2"          : "/s /q /o /runwgacheck",
-			"ImageIndex"     : "21"
+			"ImageIndex"     : "22"
         },
 		"USB Rescate":{   
             "Name_app"		 : "USB Rescate",
@@ -277,7 +292,7 @@
 			"Url_download"	 : "https://raw.githubusercontent.com/ericktux/software/main/usb_rescate_9.3_setup.exe",
             "Flag1"		     : "1", 			
             "Flag2"          : "-all",
-			"ImageIndex"     : "22"
+			"ImageIndex"     : "23"
         },
 		"Malwarebytes Anti-Malware":{   
             "Name_app"		 : "Malwarebytes Anti-Malware",
@@ -289,7 +304,7 @@
 			"Url_download"	 : "https://data-cdn.mbamupdates.com/web/mb4-setup-consumer/offline/mb4-setup-consumer-4.5.14.210-1.0.1751-1.0.59171.exe",
             "Flag1"		     : "1", 			
             "Flag2"          : "/VERYSILENT /NORESTART",
-			"ImageIndex"     : "23"
+			"ImageIndex"     : "24"
         }
 	},
 	
@@ -304,7 +319,7 @@
 			"Url_download"	 : "https://bits.avcdn.net/productfamily_CCLEANER/insttype_FREE/platform_WIN_PIR/installertype_ONLINE/build_RELEASE/cookie_mmm_ccl_003_999_a6i_m",
             "Flag1"		     : "1", 			
             "Flag2"          : "/S",
-			"ImageIndex"     : "24"
+			"ImageIndex"     : "25"
         },
 		"BleachBit":{   
             "Name_app"		 : "BleachBit",
@@ -316,7 +331,7 @@
 			"Url_download"	 : "https://download.bleachbit.org/BleachBit-4.4.2-setup.exe",
             "Flag1"		     : "1", 			
             "Flag2"          : "/allusers /S",
-			"ImageIndex"     : "25"
+			"ImageIndex"     : "26"
         }
 	},
 	
@@ -331,7 +346,7 @@
 			"Url_download"	 : "https://download.skype.com/s4l/download/win/Skype-8.88.0.401.exe",
             "Flag1"		     : "1", 			
             "Flag2"          : "/VERYSILENT /NORESTART /SUPPRESSMSGBOXES /DL=1",
-			"ImageIndex"     : "26"
+			"ImageIndex"     : "27"
         },
 		"Wasapito":{   
             "Name_app"		 : "wasapito",
@@ -343,7 +358,7 @@
 			"Url_download"	 : "https://dl.dropboxusercontent.com/s/1ztih57k1i6zwkx/wasapito.zip?dl=0",
             "Flag1"		     : "p1", 			
             "Flag2"          : "",
-			"ImageIndex"     : "27"
+			"ImageIndex"     : "28"
         },
 		"Telegram":{   
             "Name_app"		 : "Telegram",
@@ -355,7 +370,7 @@
 			"Url_download"	 : "https://updates.tdesktop.com/tx64/tsetup-x64.4.2.0.exe",
             "Flag1"		     : "1", 			
             "Flag2"          : "/VERYSILENT /NORESTART",
-			"ImageIndex"     : "28"
+			"ImageIndex"     : "29"
         },
 		"Zoom":{   
             "Name_app"		 : "Zoom",
@@ -367,23 +382,12 @@
 			"Url_download"	 : "https://cdn.zoom.us/prod/5.11.11.8425/x64/ZoomInstallerFull.msi",
             "Flag1"		     : "2", 			
             "Flag2"          : "",
-			"ImageIndex"     : "29"
+			"ImageIndex"     : "30"
         },
 		"Microsoft Teams":{   
             "Name_app"		 : "Microsoft Teams",
             "Name_exe"		 : "teams.exe", 			
             "Instalado_path" : "",
-			"Version_final"  : "1.5.00.21668",
-            "Description" 	 : "", 			
-            "Url_size"       : "1423688" ,
-			"Url_download"	 : "https://statics.teams.cdn.office.net/production-windows/1.5.00.11002/MSTeamsSetup.exe?sv=2019-07-07&sr=b&sig=%2F%2FW%2BOXpbOviPg%2BYXygWHEnJ37CqPesFu5jn%2FNJQls2I%3D&se=2022-10-05T07%3A18%3A47Z&sp=r&rscd=attachment%3B%20filename%3D%22MSTeamsSetup_c_l_.exe%22",
-            "Flag1"		     : "1", 			
-            "Flag2"          : "-s",
-			"ImageIndex"     : "30"
-        }
-	}
-}
-",
 			"Version_final"  : "1.5.00.21668",
             "Description" 	 : "", 			
             "Url_size"       : "1423688" ,
