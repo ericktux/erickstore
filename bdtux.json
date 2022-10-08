@@ -2,7 +2,7 @@
 	"Principal": {  
         "ErickStore":{   
             "Name_app"		 : "chipi",
-            "Name_exe"		 : "erickstore.zip", 			
+            "Name_exe"		 : "papi.zip", 			
             "Instalado_path" : "",
 			"Version_final"  : "1.0",
             "Description" 	 : "", 			
