@@ -4,7 +4,7 @@
             "Name_app"		 : "ErickStore",
             "Name_exe"		 : "erickstore.zip", 			
             "Instalado_path" : "",
-			"Version_final"  : "1.1",
+			"Version_final"  : "1.0",
             "Description" 	 : "", 			
             "Url_size"       : "355393536" ,
 			"Url_download"	 : "https://mirrors.ucr.ac.cr/tdf/libreoffice/stable/7.4.1/win/x86_64/LibreOffice_7.4.1_Win_x64.msi",
@@ -170,7 +170,7 @@
         },
 		"SumatraPDF":{   
             "Name_app"		 : "SumatraPDF",
-            "Name_exe"		 : "SumatraPDF.exe", 			
+            "Name_exe"		 : "SumatraPDF64.exe", 			
             "Instalado_path" : "",
 			"Version_final"  : "3.4.6",
             "Description" 	 : "", 			
