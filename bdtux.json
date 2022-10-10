@@ -170,7 +170,7 @@
         },
 		"SumatraPDF":{   
             "Name_app"		 : "SumatraPDF",
-            "Name_exe"		 : "SumatraPDF64.exe", 			
+            "Name_exe"		 : "SumatraPDF-3.4.6-64-install.exe", 			
             "Instalado_path" : "",
 			"Version_final"  : "3.4.6",
             "Description" 	 : "", 			
