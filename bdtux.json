@@ -6,8 +6,8 @@
             "Instalado_path" : "",
 			"Version_final"  : "1.0",
             "Description" 	 : "", 			
-            "Url_size"       : "355393536" ,
-			"Url_download"	 : "https://mirrors.ucr.ac.cr/tdf/libreoffice/stable/7.4.1/win/x86_64/LibreOffice_7.4.1_Win_x64.msi",
+            "Url_size"       : "4900883",
+			"Url_download"	 : "",
             "Flag1"		     : "0", 			
             "Flag2"          : "",
 			"ImageIndex"     : "1"
@@ -311,7 +311,7 @@
 	"Mantenimiento": {  
         "CCleaner":{   
             "Name_app"		 : "CCleaner",
-            "Name_exe"		 : "CCleaner64.exe", 			
+            "Name_exe"		 : "ccsetup604.exe", 			
             "Instalado_path" : "",
 			"Version_final"  : "6.03.10002",
             "Description" 	 : "", 			
@@ -391,7 +391,7 @@
 			"Version_final"  : "1.5.00.21668",
             "Description" 	 : "", 			
             "Url_size"       : "1423688" ,
-			"Url_download"	 : "https://statics.teams.cdn.office.net/production-windows/1.5.00.11002/MSTeamsSetup.exe?sv=2019-07-07&sr=b&sig=%2F%2FW%2BOXpbOviPg%2BYXygWHEnJ37CqPesFu5jn%2FNJQls2I%3D&se=2022-10-05T07%3A18%3A47Z&sp=r&rscd=attachment%3B%20filename%3D%22MSTeamsSetup_c_l_.exe%22",
+			"Url_download"	 : "https://statics.teams.cdn.office.net/production-windows/1.5.00.11002/MSTeamsSetup.exe",
             "Flag1"		     : "1", 			
             "Flag2"          : "-s",
 			"ImageIndex"     : "31"
