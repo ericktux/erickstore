@@ -1,0 +1,51 @@
+{
+    "Navegadores web": {  
+        "Mozilla Firefox":{   
+            "Name_search"	 : "firefox",
+            "Name_exe"		 : "firefox.exe", 			
+            "Instalado_path" : "",
+			"Version_final"  : "104.0",
+            "Description" 	 : "", 			
+            "Url_size"       : "56128520" ,
+			"Url_download"	 : "https://download.mozilla.org/?product=firefox-latest&os=win64&lang=es-MX",
+            "Flag1"		     : "3", 			
+            "Flag2"          : "/S",
+			"Flag3"          : "",
+			"Flag4"          : "",
+			"Flag5"          : "",
+			"ImageIndex"     : "1"
+        },
+        "Google Chrome": {  
+            "Name_search"	 : "chrome",
+            "Name_exe"		 : "chrome.exe", 			
+            "Instalado_path" : "",
+			"Version_final"  : "104.0.5112.102",
+            "Description" 	 : "", 			
+            "Url_size"       : "92305968",
+			"Url_download"	 : "https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7BD5CE696E-242A-0F7E-D4EF-BC1A4034EFAC%7D%26lang%3Den%26browser%3D3%26usagestats%3D0%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dx64-stable-statsdef_1%26installdataindex%3Dempty/chrome/install/ChromeStandaloneSetup64.exe",
+            "Flag1"		     : "3", 			
+            "Flag2"          : "/silent /install",
+			"Flag3"          : "",
+			"Flag4"          : "",
+			"Flag5"          : "",
+			"ImageIndex"     : "2"
+        }
+    },
+	"Utilitarios": {  
+        "7-Zip":{   
+            "Name_search"	 : "7zip",
+            "Name_exe"		 : "7zip.exe", 			
+            "Instalado_path" : "",
+			"Version_final"  : "21.00",
+            "Description" 	 : "", 			
+            "Url_size"       : "126546" ,
+			"Url_download"	 : "https://www.7zip.com/",
+            "Flag1"		     : "3", 			
+            "Flag2"          : "/S",
+			"Flag3"          : "",
+			"Flag4"          : "",
+			"Flag5"          : "",
+			"ImageIndex"     : "3"
+        }
+	}
+}
