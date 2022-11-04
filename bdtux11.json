@@ -4,7 +4,7 @@
             "Name_search"	 : "erickStore",
             "Name_exe"		 : "erickstore.zip", 			
             "Instalado_path" : "",
-			"Version_final"  : "1.0",
+			"Version_final"  : "1.1",
             "Description" 	 : "", 			
             "Url_size"       : "4900883",
 			"Url_download"	 : "",
@@ -128,9 +128,9 @@
         }
     },
 	
-	"Utilitarios": {  
+	"Compresores": {  
         "7-Zip":{   
-            "Name_search"	 : "7Zip",
+            "Name_search"	 : "7-Zip",
             "Name_exe"		 : "7zip.exe", 			
             "Instalado_path" : "",
 			"Version_final"  : "22.01",
@@ -145,7 +145,7 @@
 			"ImageIndex"     : "9"
         },
 		"Winrar":{   
-            "Name_search"	 : "Winrar",
+            "Name_search"	 : "winrar",
             "Name_exe"		 : "winrar.exe", 			
             "Instalado_path" : "",
 			"Version_final"  : "6.11.0",
@@ -159,6 +159,24 @@
 			"Flag5"          : "",
 			"ImageIndex"     : "10"
         },
+		"Peazip":{   
+            "Name_search"	 : "peazip",
+            "Name_exe"		 : "peazip.exe", 			
+            "Instalado_path" : "",
+			"Version_final"  : "8.9.0",
+            "Description" 	 : "", 			
+            "Url_size"       : "9631118" ,
+			"Url_download"	 : "https://github.com/peazip/PeaZip/releases/download/8.9.0/peazip-8.9.0.WIN64.exe",
+            "Flag1"		     : "1", 			
+            "Flag2"          : "/VERYSILENT /NORESTART",
+			"Flag3"          : "",
+			"Flag4"          : "",
+			"Flag5"          : "",
+			"ImageIndex"     : "10"
+        }
+	},	
+	
+	"Escritorio Remoto": {  
 		"TeamViewer":{   
             "Name_search"	 : "TeamViewer",
             "Name_exe"		 : "teamviewer.exe", 			
@@ -189,7 +207,7 @@
 			"Flag5"          : "",
 			"ImageIndex"     : "12"
         }
-	},
+	},	
 		
 	"Visores PDF": {  
         "Adobe Acrobat Reader":{   
@@ -265,6 +283,21 @@
 			"Url_download"	 : "https://files3.codecguide.com/K-Lite_Codec_Pack_1725_Mega.exe",
             "Flag1"		     : "1", 			
             "Flag2"          : "/VERYSILENT /NORESTART",
+			"Flag3"          : "",
+			"Flag4"          : "",
+			"Flag5"          : "",
+			"ImageIndex"     : "17"
+        },
+		"Combined Community Codec Pack":{   
+            "Name_search"	 : "combined community Codec Pack",
+            "Name_exe"		 : "cccp.exe", 			
+            "Instalado_path" : "",
+			"Version_final"  : "2015.10.19.0",
+            "Description" 	 : "", 			
+            "Url_size"       : "11302536" ,
+			"Url_download"	 : "https://kuroko.fushizen.eu/cccp/Combined-Community-Codec-Pack-64bit-2015-10-18.exe",
+            "Flag1"		     : "1", 			
+            "Flag2"          : "/VERYSILENT /NORESTART /SUPPRESSMSGBOXES",
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
@@ -382,7 +415,7 @@
 	
 	"Mantenimiento": {  
         "CCleaner":{   
-            "Name_search"	 : "CCleaner",
+            "Name_search"	 : "ccleaner",
             "Name_exe"		 : "ccsetup604.exe", 			
             "Instalado_path" : "",
 			"Version_final"  : "6.05",
@@ -397,7 +430,7 @@
 			"ImageIndex"     : "25"
         },
 		"BleachBit":{   
-            "Name_search"	 : "BleachBit",
+            "Name_search"	 : "bleachbit",
             "Name_exe"		 : "bleachbit.exe", 			
             "Instalado_path" : "",
 			"Version_final"  : "4.4.2",
@@ -406,6 +439,21 @@
 			"Url_download"	 : "https://download.bleachbit.org/BleachBit-4.4.2-setup.exe",
             "Flag1"		     : "1", 			
             "Flag2"          : "/allusers /S",
+			"Flag3"          : "",
+			"Flag4"          : "",
+			"Flag5"          : "",
+			"ImageIndex"     : "26"
+        },
+		"Glary Utilities":{   
+            "Name_search"	 : "glary utilities",
+            "Name_exe"		 : "glary_utilities.exe", 			
+            "Instalado_path" : "",
+			"Version_final"  : "5.196.0.225",
+            "Description" 	 : "", 			
+            "Url_size"       : "20561824" ,
+			"Url_download"	 : "https://download.glarysoft.com/gu5setup.exe",
+            "Flag1"		     : "1", 			
+            "Flag2"          : "/S /I",
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
@@ -488,6 +536,129 @@
 			"Flag4"          : "",
 			"Flag5"          : "",
 			"ImageIndex"     : "31"
+        },
+		"Discord":{   
+            "Name_search"	 : "discord",
+            "Name_exe"		 : "discord.exe", 			
+            "Instalado_path" : "",
+			"Version_final"  : "1.0.9007",
+            "Description" 	 : "", 			
+            "Url_size"       : "83251992" ,
+			"Url_download"	 : "https://dl.discordapp.net/distro/app/stable/win/x86/1.0.9007/DiscordSetup.exe",
+            "Flag1"		     : "1", 			
+            "Flag2"          : "-s",
+			"Flag3"          : "",
+			"Flag4"          : "",
+			"Flag5"          : "",
+			"ImageIndex"     : "31"
         }
-	}
+	},
+	
+	"Utilitarios": {  
+        "Killwin":{   
+            "Name_search"	 : "killwin",
+            "Name_exe"		 : "killwin.exe", 			
+            "Instalado_path" : "",
+			"Version_final"  : "1.5",
+            "Description" 	 : "", 			
+            "Url_size"       : "4816403" ,
+			"Url_download"	 : "https://raw.githubusercontent.com/ericktux/software/main/killwin.exe",
+            "Flag1"		     : "p3", 			
+            "Flag2"          : "",
+			"Flag3"          : "",
+			"Flag4"          : "",
+			"Flag5"          : "",
+			"ImageIndex"     : "9"
+        },
+		"Grabvid":{   
+            "Name_search"	 : "grabvid",
+            "Name_exe"		 : "grabvid.exe", 			
+            "Instalado_path" : "",
+			"Version_final"  : "1.2",
+            "Description" 	 : "", 			
+            "Url_size"       : "40414329" ,
+			"Url_download"	 : "https://gitlab.com/ericktux/software/-/raw/main/grabvid.zip?inline=false",
+            "Flag1"		     : "p1", 			
+            "Flag2"          : "",
+			"Flag3"          : "",
+			"Flag4"          : "",
+			"Flag5"          : "",
+			"ImageIndex"     : "9"
+        },
+		"TeraCopy":{   
+            "Name_search"	 : "teracopy",
+            "Name_exe"		 : "teracopy.exe", 			
+            "Instalado_path" : "",
+			"Version_final"  : "3.9.2",
+            "Description" 	 : "", 			
+            "Url_size"       : "11120848" ,
+			"Url_download"	 : "https://codesector.nyc3.cdn.digitaloceanspaces.com/teracopy.exe",
+            "Flag1"		     : "1", 			
+            "Flag2"          : "/exenoui /noprereqs /qn",
+			"Flag3"          : "",
+			"Flag4"          : "",
+			"Flag5"          : "",
+			"ImageIndex"     : "9"
+        },
+		"Volume2":{   
+            "Name_search"	 : "volume2",
+            "Name_exe"		 : "volume2.exe", 			
+            "Instalado_path" : "",
+			"Version_final"  : "1.1.7.449",
+            "Description" 	 : "", 			
+            "Url_size"       : "9125120" ,
+			"Url_download"	 : "https://www.7-zip.org/a/7z2201-x64.exe",
+            "Flag1"		     : "1", 			
+            "Flag2"          : "/silent RunProgramSettings_off",
+			"Flag3"          : "",
+			"Flag4"          : "",
+			"Flag5"          : "",
+			"ImageIndex"     : "9"
+        },
+		"Everything":{   
+            "Name_search"	 : "everything",
+            "Name_exe"		 : "everything.exe", 			
+            "Instalado_path" : "",
+			"Version_final"  : "1.4.1.1022",
+            "Description" 	 : "", 			
+            "Url_size"       : "1885800" ,
+			"Url_download"	 : "https://www.voidtools.com/Everything-1.4.1.1022.x64-Setup.exe",
+            "Flag1"		     : "1", 			
+            "Flag2"          : "/S",
+			"Flag3"          : "",
+			"Flag4"          : "",
+			"Flag5"          : "",
+			"ImageIndex"     : "9"
+        },
+		"Revo Uninstaller":{   
+            "Name_search"	 : "revo uninstaller",
+            "Name_exe"		 : "revo_uninstaller.exe", 			
+            "Instalado_path" : "",
+			"Version_final"  : "2.4.1",
+            "Description" 	 : "", 			
+            "Url_size"       : "7531152" ,
+			"Url_download"	 : "https://download.revouninstaller.com/download/revosetup.exe",
+            "Flag1"		     : "1", 			
+            "Flag2"          : "/VERYSILENT /NORESTART",
+			"Flag3"          : "",
+			"Flag4"          : "",
+			"Flag5"          : "",
+			"ImageIndex"     : "9"
+        },
+		"WinDirStat":{   
+            "Name_search"	 : "windirstat",
+            "Name_exe"		 : "windirstat.exe", 			
+            "Instalado_path" : "",
+			"Version_final"  : "1.1.2",
+            "Description" 	 : "", 			
+            "Url_size"       : "645729" ,
+			"Url_download"	 : "https://sitsa.dl.sourceforge.net/project/windirstat/windirstat/1.1.2%20installer%20re-release%20%28more%20languages%21%29/windirstat1_1_2_setup.exe",
+            "Flag1"		     : "1", 			
+            "Flag2"          : "/S",
+			"Flag3"          : "",
+			"Flag4"          : "",
+			"Flag5"          : "",
+			"ImageIndex"     : "10"
+        }
+	}	
 }
