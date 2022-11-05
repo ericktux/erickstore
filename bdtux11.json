@@ -172,7 +172,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "10"
+			"ImageIndex"     : "11"
         }
 	},	
 	
@@ -190,7 +190,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "11"
+			"ImageIndex"     : "12"
         },
 		"AnyDesk":{   
             "Name_search"	 : "AnyDesk",
@@ -205,7 +205,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "12"
+			"ImageIndex"     : "13"
         }
 	},	
 		
@@ -223,7 +223,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "13"
+			"ImageIndex"     : "14"
         },
 		"SumatraPDF":{   
             "Name_search"	 : "SumatraPDF",
@@ -238,7 +238,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "14"
+			"ImageIndex"     : "15"
         },
 		"Foxit PDF Reader":{   
             "Name_search"	 : "Foxit PDF Reader",
@@ -253,7 +253,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "15"
+			"ImageIndex"     : "16"
         }
 	},
 	
@@ -271,7 +271,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "16"
+			"ImageIndex"     : "17"
         },
 		"K-Lite Mega Codec Pack":{   
             "Name_search"	 : "K-Lite Mega Codec Pack",
@@ -286,7 +286,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "17"
+			"ImageIndex"     : "18"
         },
 		"Combined Community Codec Pack":{   
             "Name_search"	 : "combined community Codec Pack",
@@ -301,7 +301,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "17"
+			"ImageIndex"     : "19"
         },
 		"AIMP":{   
             "Name_search"	 : "AIMP",
@@ -316,7 +316,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "18"
+			"ImageIndex"     : "20"
         },
 		"Winamp":{   
             "Name_search"	 : "Winamp",
@@ -331,7 +331,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "19"
+			"ImageIndex"     : "21"
         }
 	},
 	
@@ -349,7 +349,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "20"
+			"ImageIndex"     : "22"
         },
 		"AVG Antivirus":{   
             "Name_search"	 : "AVG Antivirus",
@@ -364,7 +364,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "21"
+			"ImageIndex"     : "23"
         },
 		"Microsoft Security Essentials":{   
             "Name_search"	 : "Microsoft Security Essentials",
@@ -379,7 +379,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "22"
+			"ImageIndex"     : "24"
         },
 		"USB Rescate":{   
             "Name_search"	 : "USB Rescate",
@@ -394,7 +394,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "23"
+			"ImageIndex"     : "25"
         },
 		"Malwarebytes Anti-Malware":{   
             "Name_search"	 : "Malwarebytes Anti-Malware",
@@ -409,7 +409,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "24"
+			"ImageIndex"     : "26"
         }
 	},
 	
@@ -427,7 +427,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "25"
+			"ImageIndex"     : "27"
         },
 		"BleachBit":{   
             "Name_search"	 : "bleachbit",
@@ -442,7 +442,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "26"
+			"ImageIndex"     : "28"
         },
 		"Glary Utilities":{   
             "Name_search"	 : "glary utilities",
@@ -457,7 +457,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "26"
+			"ImageIndex"     : "29"
         }
 	},
 	
@@ -475,7 +475,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "27"
+			"ImageIndex"     : "30"
         },
 		"Wasapito":{   
             "Name_search"	 : "wasapito",
@@ -490,7 +490,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "28"
+			"ImageIndex"     : "31"
         },
 		"Telegram":{   
             "Name_search"	 : "Telegram",
@@ -505,7 +505,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "29"
+			"ImageIndex"     : "32"
         },
 		"Zoom":{   
             "Name_search"	 : "Zoom",
@@ -520,7 +520,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "30"
+			"ImageIndex"     : "33"
         },
 		"Microsoft Teams":{   
             "Name_search"	 : "Microsoft Teams",
@@ -535,7 +535,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "31"
+			"ImageIndex"     : "34"
         },
 		"Discord":{   
             "Name_search"	 : "discord",
@@ -546,11 +546,11 @@
             "Url_size"       : "83251992" ,
 			"Url_download"	 : "https://dl.discordapp.net/distro/app/stable/win/x86/1.0.9007/DiscordSetup.exe",
             "Flag1"		     : "1", 			
-            "Flag2"          : "-s",
+            "Flag2"          : "/S",
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "31"
+			"ImageIndex"     : "35"
         }
 	},
 	
@@ -568,7 +568,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "9"
+			"ImageIndex"     : "36"
         },
 		"Grabvid":{   
             "Name_search"	 : "grabvid",
@@ -583,7 +583,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "9"
+			"ImageIndex"     : "37"
         },
 		"TeraCopy":{   
             "Name_search"	 : "teracopy",
@@ -598,7 +598,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "9"
+			"ImageIndex"     : "38"
         },
 		"Volume2":{   
             "Name_search"	 : "volume2",
@@ -613,7 +613,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "9"
+			"ImageIndex"     : "39"
         },
 		"Everything":{   
             "Name_search"	 : "everything",
@@ -628,7 +628,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "9"
+			"ImageIndex"     : "40"
         },
 		"Revo Uninstaller":{   
             "Name_search"	 : "revo uninstaller",
@@ -643,7 +643,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "9"
+			"ImageIndex"     : "41"
         },
 		"WinDirStat":{   
             "Name_search"	 : "windirstat",
@@ -658,7 +658,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "10"
+			"ImageIndex"     : "42"
         }
 	}	
 }
