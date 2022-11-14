@@ -31,7 +31,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "2"
+			"ImageIndex"     : "11"
         },
 		"WPS Office":{   
             "Name_search"	 : "WPS Office",
@@ -46,7 +46,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "3"
+			"ImageIndex"     : "12"
         }
 	},
 	
@@ -64,7 +64,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",			
-			"ImageIndex"     : "4"
+			"ImageIndex"     : "13"
         },
         "Google Chrome": {  
             "Name_search"	 : "Google Chrome",
@@ -79,7 +79,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",			
-			"ImageIndex"     : "5"
+			"ImageIndex"     : "14"
         },
 		"Brave Browser":{   
             "Name_search"	 : "brave",
@@ -94,7 +94,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "6"
+			"ImageIndex"     : "15"
         },
 		"Opera Browser":{   
             "Name_search"	 : "opera",
@@ -109,7 +109,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "7"
+			"ImageIndex"     : "16"
         },
 		"Microsoft Edge":{   
             "Name_search"	 : "Microsoft Edge",
@@ -124,7 +124,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "8"
+			"ImageIndex"     : "17"
         }
     },
 	
@@ -142,7 +142,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "9"
+			"ImageIndex"     : "18"
         },
 		"Winrar":{   
             "Name_search"	 : "winrar",
@@ -157,7 +157,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "10"
+			"ImageIndex"     : "19"
         },
 		"Peazip":{   
             "Name_search"	 : "peazip",
@@ -172,7 +172,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "11"
+			"ImageIndex"     : "20"
         }
 	},	
 	
@@ -190,7 +190,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "12"
+			"ImageIndex"     : "21"
         },
 		"AnyDesk":{   
             "Name_search"	 : "AnyDesk",
@@ -205,7 +205,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "13"
+			"ImageIndex"     : "22"
         }
 	},	
 		
@@ -223,7 +223,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "14"
+			"ImageIndex"     : "23"
         },
 		"SumatraPDF":{   
             "Name_search"	 : "SumatraPDF",
@@ -238,7 +238,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "15"
+			"ImageIndex"     : "24"
         },
 		"Foxit PDF Reader":{   
             "Name_search"	 : "Foxit PDF Reader",
@@ -253,7 +253,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "16"
+			"ImageIndex"     : "25"
         }
 	},
 	
@@ -271,7 +271,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "17"
+			"ImageIndex"     : "26"
         },
 		"K-Lite Mega Codec Pack":{   
             "Name_search"	 : "K-Lite Mega Codec Pack",
@@ -286,7 +286,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "18"
+			"ImageIndex"     : "27"
         },
 		"Combined Community Codec Pack":{   
             "Name_search"	 : "combined community Codec Pack",
@@ -301,7 +301,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "19"
+			"ImageIndex"     : "28"
         },
 		"AIMP":{   
             "Name_search"	 : "AIMP",
@@ -316,7 +316,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "20"
+			"ImageIndex"     : "29"
         },
 		"Winamp":{   
             "Name_search"	 : "Winamp",
@@ -331,7 +331,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "21"
+			"ImageIndex"     : "30"
         }
 	},
 	
@@ -349,7 +349,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "22"
+			"ImageIndex"     : "31"
         },
 		"AVG Antivirus":{   
             "Name_search"	 : "AVG Antivirus",
@@ -364,7 +364,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "23"
+			"ImageIndex"     : "32"
         },
 		"Microsoft Security Essentials":{   
             "Name_search"	 : "Microsoft Security Essentials",
@@ -379,7 +379,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "24"
+			"ImageIndex"     : "33"
         },
 		"USB Rescate":{   
             "Name_search"	 : "USB Rescate",
@@ -394,7 +394,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "25"
+			"ImageIndex"     : "34"
         },
 		"Malwarebytes Anti-Malware":{   
             "Name_search"	 : "Malwarebytes Anti-Malware",
@@ -409,7 +409,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "26"
+			"ImageIndex"     : "35"
         }
 	},
 	
@@ -427,7 +427,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "27"
+			"ImageIndex"     : "36"
         },
 		"BleachBit":{   
             "Name_search"	 : "bleachbit",
@@ -442,7 +442,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "28"
+			"ImageIndex"     : "37"
         },
 		"Glary Utilities":{   
             "Name_search"	 : "glary utilities",
@@ -457,7 +457,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "29"
+			"ImageIndex"     : "38"
         }
 	},
 	
@@ -475,7 +475,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "30"
+			"ImageIndex"     : "39"
         },
 		"Wasapito":{   
             "Name_search"	 : "wasapito",
@@ -490,7 +490,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "31"
+			"ImageIndex"     : "40"
         },
 		"Telegram":{   
             "Name_search"	 : "Telegram",
@@ -505,7 +505,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "32"
+			"ImageIndex"     : "41"
         },
 		"Zoom":{   
             "Name_search"	 : "Zoom",
@@ -520,7 +520,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "33"
+			"ImageIndex"     : "42"
         },
 		"Microsoft Teams":{   
             "Name_search"	 : "Microsoft Teams",
@@ -535,7 +535,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "34"
+			"ImageIndex"     : "43"
         },
 		"Discord":{   
             "Name_search"	 : "discord",
@@ -550,7 +550,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "35"
+			"ImageIndex"     : "44"
         }
 	},
 	
@@ -568,7 +568,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "36"
+			"ImageIndex"     : "45"
         },
 		"Grabvid":{   
             "Name_search"	 : "grabvid",
@@ -583,7 +583,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "37"
+			"ImageIndex"     : "46"
         },
 		"TeraCopy":{   
             "Name_search"	 : "teracopy",
@@ -598,22 +598,22 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "38"
+			"ImageIndex"     : "47"
         },
 		"Volume2":{   
             "Name_search"	 : "volume2",
-            "Name_exe"		 : "volume2.exe", 			
+            "Name_exe"		 : "volume2.zip", 			
             "Instalado_path" : "",
 			"Version_final"  : "1.1.7.449",
             "Description" 	 : "", 			
             "Url_size"       : "9125120" ,
-			"Url_download"	 : "https://www.7-zip.org/a/7z2201-x64.exe",
+			"Url_download"	 : "https://public.db.files.1drv.com/y4m6scOyD2akXbwAucw9Fe-Py-KQvNGqYZpnCl2u8VLCpobaCHWCzSHRGhckNIDqGM-NeTaHghAeQ2qaok92aeIU_rw428FmVw-gxbkxKx_A-sKPYztDe5wktdzD2jaQ7IunsszIPRYNdtgkmfe4xhrilTkXCN7baD5FcBGVwIL0IFqIiUo48A14HxiMmsPq6F7EFKpTF-IPgmzzWbTLLd7WP1a8dVOcrIv8-AnNWx7DYI",
             "Flag1"		     : "1", 			
             "Flag2"          : "/silent RunProgramSettings_off",
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "39"
+			"ImageIndex"     : "48"
         },
 		"Everything":{   
             "Name_search"	 : "everything",
@@ -628,7 +628,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "40"
+			"ImageIndex"     : "49"
         },
 		"Revo Uninstaller":{   
             "Name_search"	 : "revo uninstaller",
@@ -643,7 +643,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "41"
+			"ImageIndex"     : "50"
         },
 		"WinDirStat":{   
             "Name_search"	 : "windirstat",
@@ -658,7 +658,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "42"
+			"ImageIndex"     : "51"
         }
 	}	
 }
