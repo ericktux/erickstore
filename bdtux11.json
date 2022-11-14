@@ -608,7 +608,7 @@
             "Description" 	 : "", 			
             "Url_size"       : "9125120" ,
 			"Url_download"	 : "https://raw.githubusercontent.com/ericktux/software_terceros/main/Setup_Volume2_1_1_8.zip",
-            "Flag1"		     : "1", 			
+            "Flag1"		     : "4", 			
             "Flag2"          : "/silent RunProgramSettings_off",
 			"Flag3"          : "",
 			"Flag4"          : "",
