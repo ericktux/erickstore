@@ -607,7 +607,7 @@
 			"Version_final"  : "1.1.7.449",
             "Description" 	 : "", 			
             "Url_size"       : "9125120" ,
-			"Url_download"	 : "https://raw.githubusercontent.com/ericktux/software_terceros/main/Setup_Volume2_1_1_8.zip",
+			"Url_download"	 : "https://raw.githubusercontent.com/ericktux/software_terceros/main/volume2.zip",
             "Flag1"		     : "4", 			
             "Flag2"          : "/silent RunProgramSettings_off",
 			"Flag3"          : "",
