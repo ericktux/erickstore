@@ -396,6 +396,21 @@
 			"Flag5"          : "",
 			"ImageIndex"     : "34"
         },
+		"USB Agente Secreto":{   
+            "Name_search"	 : "USB Agente Secreto",
+            "Name_exe"		 : "usb_agente.exe", 			
+            "Instalado_path" : "",
+			"Version_final"  : "2.1",
+            "Description" 	 : "", 			
+            "Url_size"       : "14433299" ,
+			"Url_download"	 : "https://raw.githubusercontent.com/ericktux/software/main/usbagente_setup.exe",
+            "Flag1"		     : "1", 			
+            "Flag2"          : "-all",
+			"Flag3"          : "",
+			"Flag4"          : "",
+			"Flag5"          : "",
+			"ImageIndex"     : "35"
+        },
 		"Malwarebytes Anti-Malware":{   
             "Name_search"	 : "Malwarebytes Anti-Malware",
             "Name_exe"		 : "malwarebytes.exe", 			
@@ -409,7 +424,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "35"
+			"ImageIndex"     : "36"
         }
 	},
 	
@@ -427,7 +442,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "36"
+			"ImageIndex"     : "37"
         },
 		"BleachBit":{   
             "Name_search"	 : "bleachbit",
@@ -442,7 +457,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "37"
+			"ImageIndex"     : "38"
         },
 		"Glary Utilities":{   
             "Name_search"	 : "glary utilities",
@@ -457,7 +472,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "38"
+			"ImageIndex"     : "39"
         }
 	},
 	
@@ -475,7 +490,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "39"
+			"ImageIndex"     : "40"
         },
 		"Wasapito":{   
             "Name_search"	 : "wasapito",
@@ -490,7 +505,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "40"
+			"ImageIndex"     : "41"
         },
 		"Telegram":{   
             "Name_search"	 : "Telegram",
@@ -505,7 +520,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "41"
+			"ImageIndex"     : "42"
         },
 		"Zoom":{   
             "Name_search"	 : "Zoom",
@@ -520,7 +535,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "42"
+			"ImageIndex"     : "43"
         },
 		"Microsoft Teams":{   
             "Name_search"	 : "Microsoft Teams",
@@ -535,7 +550,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "43"
+			"ImageIndex"     : "44"
         },
 		"Discord":{   
             "Name_search"	 : "discord",
@@ -550,7 +565,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "44"
+			"ImageIndex"     : "45"
         }
 	},
 	
@@ -568,7 +583,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "45"
+			"ImageIndex"     : "46"
         },
 		"Grabvid":{   
             "Name_search"	 : "grabvid",
@@ -583,7 +598,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "46"
+			"ImageIndex"     : "47"
         },
 		"TeraCopy":{   
             "Name_search"	 : "teracopy",
@@ -598,7 +613,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "47"
+			"ImageIndex"     : "48"
         },
 		"Volume2":{   
             "Name_search"	 : "volume2",
@@ -613,7 +628,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "48"
+			"ImageIndex"     : "49"
         },
 		"Everything":{   
             "Name_search"	 : "everything",
@@ -628,7 +643,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "49"
+			"ImageIndex"     : "50"
         },
 		"Revo Uninstaller":{   
             "Name_search"	 : "revo uninstaller",
@@ -643,7 +658,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "50"
+			"ImageIndex"     : "51"
         },
 		"WinDirStat":{   
             "Name_search"	 : "windirstat",
@@ -658,7 +673,7 @@
 			"Flag3"          : "",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "51"
+			"ImageIndex"     : "52"
         }
 	}	
 }
