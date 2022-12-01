@@ -587,7 +587,7 @@
         },
 		"Grabvid":{   
             "Name_search"	 : "grabvid",
-            "Name_exe"		 : "grabvid.exe", 			
+            "Name_exe"		 : "grabvid.zip", 			
             "Instalado_path" : "",
 			"Version_final"  : "1.2",
             "Description" 	 : "", 			
