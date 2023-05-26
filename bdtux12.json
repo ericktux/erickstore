@@ -90,8 +90,8 @@
             "Url_size"       : "109185664" ,
 			"Url_download"	 : "https://github.com/brave/brave-browser/releases/download/v1.46.144/BraveBrowserStandaloneSilentSetup.exe",
             "Flag1"		     : "3", 			
-            "Flag2"          : "2",
-			"Flag3"          : "",
+            "Flag2"          : "",
+			"Flag3"          : "2",
 			"Flag4"          : "",
 			"Flag5"          : "",
 			"ImageIndex"     : "15"
